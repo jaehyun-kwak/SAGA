@@ -2,6 +2,12 @@
 
 **Stage-wise Attention-Guided Region Sequencing for Adversarial Attacks on Large Vision-Language Models**
 
+[arXiv](https://arxiv.org/abs/2602.04356)
+
+## 📰 News
+
+- SAGA is accepted to NeurIPS 2026!
+
 ## Overview
 
 SAGA uses a fixed attention map from the open-sourced model (e.g., Qwen3-VL) to guide
