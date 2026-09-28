@@ -2,9 +2,9 @@
 
 **Stage-wise Attention-Guided Region Sequencing for Adversarial Attacks on Large Vision-Language Models**
 
-[arXiv](https://arxiv.org/abs/2602.04356)
+[![arXiv](https://img.shields.io/badge/arXiv-2602.04356-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.04356)
 
-## 📰 News
+## News
 
 - SAGA is accepted to NeurIPS 2026!
 
