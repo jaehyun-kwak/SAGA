@@ -1,0 +1,34 @@
+[
+  {
+    "count": 1,
+    "same_directory": true,
+    "exact_pairing": true,
+    "first_ids": [
+      "729"
+    ]
+  },
+  {
+    "count": 10,
+    "same_directory": true,
+    "exact_pairing": true,
+    "first_ids": [
+      "11",
+      "371",
+      "393",
+      "420",
+      "47"
+    ]
+  },
+  {
+    "count": 1000,
+    "same_directory": true,
+    "exact_pairing": true,
+    "first_ids": [
+      "0",
+      "1",
+      "10",
+      "100",
+      "101"
+    ]
+  }
+]

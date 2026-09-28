@@ -1,0 +1,9 @@
+{
+  "command": "OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 /tmp/saga-strict-env/bin/python -m pytest -q",
+  "result": "18 passed",
+  "elapsed_sec": 8.71,
+  "python": "3.12.3",
+  "environment": "uv sync --frozen --python /usr/bin/python3 (release uv.lock)",
+  "lint": "ruff check saga tests tools attack.py: All checks passed",
+  "input_check": "1000 valid source images and one-to-one captions"
+}
